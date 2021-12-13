@@ -9,7 +9,9 @@ The analysis uses a dataset  called the Health Financing and System Assessment S
 
 ## How to navigate through this repository?
 
-This repository contains the codes that are used to prepare an analysis on the determinants of stunting in the Bangsamoro region.
+This repository contains the codes that are used to prepare an analysis on the determinants of stunting in the Bangsamoro region. 
+
+[Still a work in progress]
 
 ## References
 Duncan Thomas and John Strauss (1997). “Health and Wages: Evidence on Men and Women in Urban Brazil.” Journal of Econometrics 77, no. 1, pp. 159–85. https://doi.org/10.1016/S0304-4076(96)01811-8.
